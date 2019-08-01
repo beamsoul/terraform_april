@@ -9,7 +9,7 @@ output "ID" {
   value = "${aws_instance.web1.id}"
 }
 
-output "username" {
+output "username" { # we can specify our username for aws
    value = "ec-user2"
 }
 output "public_ip" {

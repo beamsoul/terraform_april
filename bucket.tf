@@ -5,7 +5,7 @@ resource "aws_s3_bucket" "b" {
   tags = {
         Name = "Dev"
         Dept =  "IT"
-        Group = "April"
+        Group = "December"
         Created_by = "janna"
     }
 }

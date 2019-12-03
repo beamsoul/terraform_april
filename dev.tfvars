@@ -1,5 +1,5 @@
 
-ami             =   "ami-0d8f6eb4f641ef691"
+ami             =   "ami-0c5204531f799e0c6"
 instance_type   =   "t2.micro"
 Env             =   "Dev"
 

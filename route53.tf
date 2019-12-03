@@ -1,5 +1,5 @@
-resource "aws_route53_record" "jenkins2" { 
-  zone_id = "ZO2D618XPUF1M"
+resource "aws_route53_record" "web1" { 
+  zone_id = "Z2YKRE0Q8X8XEJ"
   name    = "www.beamsoul.com"
   type    = "A"
   ttl     = "300"

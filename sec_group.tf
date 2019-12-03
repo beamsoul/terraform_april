@@ -20,7 +20,7 @@ resource "aws_security_group" "sec1" {
   tags = {
         Name = "Dev"
         Dept =  "IT"
-        Group = "April"
+        Group = "December"
         Created_by = "janna"
     }
 }
